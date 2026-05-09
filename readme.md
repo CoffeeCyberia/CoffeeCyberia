@@ -16,7 +16,7 @@
 - CPU: 2x Intel Xeon E5-2650
 - RAM: 256GB DDR3 ECC
 ## Hobbys
-- Thinking abaut you <3
+- Thinking about you <3
 - Learning to Programm 🤓
 - Playing Drums 🥁
 - Eating Cake 🍰
